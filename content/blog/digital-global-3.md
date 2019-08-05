@@ -1,7 +1,7 @@
 ---
 path: new-blog-post
 date: 2019-08-05T17:08:51.025Z
-title: DiGITAl GLOBAL
+title: DiGITAl GLOBAl digital edge
 description: ¿Qué es Digital Global?
 ---
 ![]( "Digital Edge")

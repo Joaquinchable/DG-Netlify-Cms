@@ -1,7 +1,7 @@
 ---
 path: new-blog-post
 date: 2019-08-05T17:08:51.025Z
-title: DiGITAl GLOBAL
+title: DiGITAl fff
 description: >-
   ¿Qué es Digital Global?Lorem Ipsum es simplemente el texto de relleno de las
   imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno
